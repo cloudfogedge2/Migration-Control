@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<nodes>
+  <node id="fixedFog1" x="2.65" y="1.91" type="fixedFog" power="6.64" lane="4" coverage_radius="4.32"/>
+  <node id="fixedFog2" x="1.30" y="8.58" type="fixedFog" power="13.81" lane="6" coverage_radius="4.25"/>
+  <node id="fixedFog3" x="7.09" y="6.74" type="fixedFog" power="19.54" lane="6" coverage_radius="4.92"/>
+  <node id="fixedFog4" x="0.39" y="5.96" type="fixedFog" power="15.38" lane="4" coverage_radius="4.41"/>
+  <node id="fixedFog5" x="4.18" y="1.31" type="fixedFog" power="12.79" lane="4" coverage_radius="4.23"/>
+  <node id="fixedFog6" x="3.53" y="3.05" type="fixedFog" power="13.03" lane="5" coverage_radius="4.01"/>
+  <node id="fixedFog7" x="8.56" y="5.78" type="fixedFog" power="8.15" lane="5" coverage_radius="4.90"/>
+  <node id="fixedFog8" x="2.37" y="5.48" type="fixedFog" power="16.72" lane="6" coverage_radius="4.36"/>
+</nodes>

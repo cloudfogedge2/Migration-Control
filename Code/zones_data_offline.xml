@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<zones>
+  <zone name="Zone0" x="3.00" y="3.00" coverage_radius="4.00"/>
+  <zone name="Zone1" x="3.00" y="7.00" coverage_radius="4.00"/>
+  <zone name="Zone2" x="7.00" y="3.00" coverage_radius="4.00"/>
+  <zone name="Zone3" x="7.00" y="7.00" coverage_radius="4.00"/>
+</zones>
